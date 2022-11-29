@@ -12,3 +12,8 @@ For more information about this topic, please click here:
 ```sh
 $ wget -O - https://raw.githubusercontent.com/nat3z/pi-zero-nodejs/master/install-node-16.8.sh | bash
 ```
+
+## v18.9
+```sh
+$ wget -O - https://raw.githubusercontent.com/nat3z/pi-zero-nodejs/master/install-node-18.sh | bash
+```
